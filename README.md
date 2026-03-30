@@ -93,3 +93,15 @@ Then open `http://127.0.0.1:5000`.
 
 ## Summary
 This project combines a polished frontend with a classic game AI approach. It is a strong example of integrating Flask routes, client-side interaction logic, and a recursive minimax algorithm to build an interactive strategy game.
+
+
+## Preview
+
+### 🎮 Game Menue
+![Game](Screenshots/Screenshot-Menu.png)
+
+### 🤖 AI Mode
+![AI](Screenshots/Screenshot-PVA.png)
+
+### 🧭 PVP Mode
+![Menu](Screenshots/Screenshot-PVP.png)
